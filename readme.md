@@ -3,8 +3,8 @@ Introduction
 
 Hipster Ipsum is a plugin for [Coda][] designed to retrieve text from the [HipsterJesus API][].
 
-  [Coda]: http://panic.com/coda/
-  [HipsterJesus API]: http://hipsterjesus.com/
+[Coda]: http://panic.com/coda/
+[HipsterJesus API]: http://hipsterjesus.com/
 
 Usage
 -----
@@ -21,8 +21,8 @@ Credits
 
 Thanks to [Ian Van Ness][] for the HipsterJesus API and [Jason Cosper][] for [Hipster Ipsum][].
 
-	[Ian Van Ness]: http://ianvanness.com/
-	[Jason Cosper]: http://jasoncosper.com/
-	[Hipster Ipsum]: http://hipsteripsum.me/
+[Ian Van Ness]: http://ianvanness.com/
+[Jason Cosper]: http://jasoncosper.com/
+[Hipster Ipsum]: http://hipsteripsum.me/
 	
 Copyright 2011 Seth Lilly.
