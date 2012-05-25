@@ -1,3 +1,5 @@
+_Now compatible with Coda 2!_
+
 ###Introduction
 ---
 
@@ -25,4 +27,4 @@ Thanks to [Ian Van Ness][] for the HipsterJesus API and [Jason Cosper][] for [Hi
 [Jason Cosper]: http://jasoncosper.com/
 [Hipster Ipsum]: http://hipsteripsum.me/
 
-&copy; 2011 Seth Lilly.
+&copy; 2011-2012 Seth Lilly.
