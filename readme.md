@@ -13,6 +13,11 @@ Hipster Ipsum for Coda is a plugin for [Coda][] designed to retrieve text from t
 
 In Coda, place your cursor at the desired location and type the number of paragraphs of Hipster Ipsum you'd like (1-99). Then select the number and choose either Hipster Latin or Hipster Centric from the Hipster Ipsum menu. Hipster Ipsum for Coda will replace the selected text with the chosen number of paragraphs. If you do not make a selection or select something other than a number from 1-99, Hipster Ipsum for Coda will return one paragraph, replacing the currently selected text.
 
+###Notes
+----
+
+Some users report the plugin being disabled (greyed out) if the file is not using UTF8 encoding. If this occurs, please verify that your file is encoded using UTF8.
+
 ###License
 ----
 
